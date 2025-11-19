@@ -94,6 +94,11 @@ mvn exec:java
 mvn test
 ```
 
+### Генерация JavaDoc в директорию target/javadoc
+```bash
+mvn javadoc:javadoc
+```
+
 ## Пример вывода
 
 ```
